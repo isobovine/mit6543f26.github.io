@@ -11,7 +11,7 @@ layout: default
 This class is an MIT graduate course on quantum complexity theory,
 covering a broad range of topics of current interest. For last year's
 Harvard-MIT joint edition of this class, which focused on the exciting
-area ofHamiltonian
+area of Hamiltonian
 complexity, see [here](https://mit6543.github.io). 
 
 ## Course Information
